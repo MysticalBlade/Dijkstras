@@ -1,0 +1,4 @@
+# ninja log v6
+2	678	7668135268211262	CMakeFiles/Djikstra_s.dir/main.cpp.obj	c50e27b00a5169d4
+5	755	7668135268241243	CMakeFiles/Djikstra_s.dir/Graph.cpp.obj	3c51181ab54e4d48
+756	1094	7668135275751264	Djikstra_s.exe	c76743320375a822
