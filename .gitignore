@@ -1,0 +1,59 @@
+# CMake build directories
+cmake-build-*/
+build/
+out/
+
+# IDE-specific files and directories
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Dependency directories
+_deps/
+
+# Compiled binaries
+Djikstra_s
+dijkstra
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+CTestTestfile.cmake
+install_manifest.txt
+Makefile
+*.cmake
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.vcproj
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
+ipch/
+
+# Testing directories
+Testing/
